@@ -9,11 +9,11 @@
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=ffcc00" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=68aac2" alt="Java logo" title="Python" height="25" />](https://www.java.com/en/)
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=68aac2" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=0d976f" alt="Java logo" title="Node.js" height="25" />](https://www.java.com/en/)
+[<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=0d976f" alt="NodeJS logo" title="Node.js" height="25" />](https://www.nodejs.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=ffcc00" alt="Java logo" title="HTML5" height="25" />](https://www.java.com/en/)
+[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=e30d00" alt="HTML5 logo" title="HTML5" height="25" />](https://html.spec.whatwg.org/tn)
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ffcc00" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
 &nbsp;
