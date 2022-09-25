@@ -7,13 +7,18 @@
 
 **Currently working with:**
 
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.java.com/en/" title="Java"><img src="icons/java.png" /></a>
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=ffcc00" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=68aac2" alt="Java logo" title="Python" height="25" />](https://www.java.com/en/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=0d976f" alt="Java logo" title="Node.js" height="25" />](https://www.java.com/en/)
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=ffcc00" alt="Java logo" title="HTML5" height="25" />](https://www.java.com/en/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ffcc00" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
+&nbsp;
+
+
 
 [![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=Mudassir-A&show_icons=true&theme=merko)](https://github.com/Mudassir-A)
 
