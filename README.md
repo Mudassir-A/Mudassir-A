@@ -11,7 +11,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="Node.js" height="25" />](https://www.nodejs.org/)
+[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="NodeJS logo" title="Node.js" height="25" />](https://www.nodejs.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />](https://html.spec.whatwg.org/tn)
 &nbsp;
