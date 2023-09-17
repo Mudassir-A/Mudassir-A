@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mohd Mudassir Ansari! <img src="https://media3.giphy.com/media/VFGsPXfFeIcGdtwAIC/200.webp?cid=ecf05e47y3ib24yq1o8ig2z6cdo2fj38nc6bdly0gojbzwvy&rid=200.webp&ct=s" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<p><em># Diploma (Computer Engineering) from <a href="https://eventsmhssp.in/">M. H. Saboo Siddik Polytechnic</a>
+<p><em># CSE UnderGrad @<a href="https://www.mctrgit.ac.in/">MCT's Rajiv Gandhi Institute of Technology, Mumbai</a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 </br>
