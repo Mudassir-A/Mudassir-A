@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassir-a" alt="mudassir-a" /></a> </p>
 
