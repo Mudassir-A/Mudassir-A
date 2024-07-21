@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Mudassir Ansari</h1>
-<h3 align="center">Data Nerd 😜 | Exploring DSA 🫨 | Open to Connect 🌐</h3>
+![Header](./github-header-image.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassir-a" alt="mudassir-a" /></a> </p>
 
