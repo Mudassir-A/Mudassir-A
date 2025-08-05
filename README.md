@@ -5,7 +5,7 @@
 ### About Me
 - CSE undergrad '26
 - Currently (self) studying:
-  - ML
+  - Data Science (ML and Data Viz)
   - Maths (Calculus, Linear Algebra)
 
 ### If you wanna reach out:
