@@ -10,4 +10,4 @@
 
 ### If you wanna reach out:
 - [Send me an email](mailto:mudassirimranansari@gmail.com) or
-- Send me a DM on ![LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mudassiria) 
+- Send me a DM on [LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mudassiria) 
