@@ -1,6 +1,6 @@
  <!-- ![](https://media1.tenor.com/m/3u27loVq00AAAAAC/hand-wave.gif) -->
 
-## $$Hey \space Everyone! \space It's \space {\color{lightblue}Mudassir \space Ansari}$$
+ <!-- ## $$Hey \space Everyone! \space It's \space {\color{lightblue}Mudassir \space Ansari}$$ -->
 
 ### About Me
 - CSE undergrad '26
