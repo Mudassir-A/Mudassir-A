@@ -40,6 +40,7 @@
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 </div>
 
+<hr>
 
 ### If you wanna reach out:
 - [Send me an email](mailto:mudassirimranansari@gmail.com) or
